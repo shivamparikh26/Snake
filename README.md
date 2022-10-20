@@ -1,1 +1,1 @@
-# Snake
+Welcome to Snake! Use the arrow keys to move your snake around the screen so that it could eat the apples. One your snake eat an apple another one will apear in a different location. Make sure you dont touch the walls of the black box or else you lose. Try to beat your high score and have fun!🐍😀
